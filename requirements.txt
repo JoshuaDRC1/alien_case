@@ -1,0 +1,11 @@
+pandas
+numpy
+scipy
+openpyxl
+matplotlib
+seaborn
+plotly
+scikit-learn
+statsmodels
+datetime
+dateutil
